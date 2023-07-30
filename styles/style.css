@@ -89,6 +89,10 @@ hr {
     font-size: 1em;
 }
 
+.chapter-header img {
+    width: 17%;
+}
+
 .content-box {
     background-color: #DDEAF6;
     margin: 2%;
@@ -99,6 +103,11 @@ hr {
     background-color: #4969B3;
     color: #FFFFFF;
     text-transform: uppercase;
+}
+
+.content-subheading {
+    text-transform: none;
+    font-size: smaller;
 }
 
 .content-box .flex-container {
